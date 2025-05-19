@@ -18,7 +18,7 @@ Provide skills and associated project.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Google AI Engeneing Promting Tools         | <a href="https://google.com">Detection Lab</a>|
+| Google AI Engeneing Promting Tools         | <a href="https://github.com/elicheyo/Prompting-tools">Prompting Tools</a>|
 | Maximize Productivity With AI Tools | <a href="https://google.com">Detection Lab</a>|
 | Google AI Security And Privacy Risk      | SOC Automation Lab|
 |Google Cyber Security Play It Safe: Manage Security Risks   | SOC Automation Lab|
