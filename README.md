@@ -26,8 +26,10 @@ Provide skills and associated project.
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+**Tools Used:** Google Gemini AI | Prompt Engineering | AI Writing Assistants  
 
+-Utilized AI tools to generate ideas and structure outlines for technical projects and presentations.  
+This project focused on using prompt engineering to guide AI in creative thinking and decision support.
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
