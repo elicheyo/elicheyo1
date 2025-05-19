@@ -9,19 +9,19 @@ To build expertise in AI, machine learning, and cybersecurity, applying skills i
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Provide skills and associated project.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Google AI Engeneing Promting Tools         | <a href="https://google.com">Detection Lab</a>|
+| Maximize Productivity With AI Tools | <a href="https://google.com">Detection Lab</a>|
+| Google AI Security And Privacy Risk      | SOC Automation Lab|
+|Google Cyber Security Play It Safe: Manage Security Risks   | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -51,7 +51,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  
+[<img src="https://img.shields.io/badge/Google%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Certificate" />](https://www.coursera.org/account/accomplishments/specialization/certificate/R6ACQOZMXR1H)  
+
+
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
@@ -59,5 +62,25 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+-Detection Lab
+
+Built a virtual SOC environment to simulate attacks, analyze logs, and test threat detection with tools like Splunk, Zeek, and Suricata.
+
+-SOC Automation Project
+
+Automated incident response workflows using Shuffle SOAR, integrated with TheHive for case management and alert triage.
+
+-AI Email Assistant with Google AI
+
+Created a productivity assistant using Google AI tools to draft, edit, and summarize professional emails for improved workflow.
+
+-Decision-Making AI Tool
+
+Developed a prompt-based AI decision assistant for organizing research and comparing options across cybersecurity toolsets.
+
+-AI-Enhanced Threat Intelligence
+
+Leveraged AI tools to extract and analyze threat data from open-source feeds for real-time cybersecurity insights.
+
+-AI Risk Management Framework
+Designed a lightweight framework for identifying and mitigating AI-related cybersecurity risks in automation pipelines.
