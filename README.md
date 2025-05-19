@@ -39,12 +39,8 @@ This project focused on using prompt engineering to guide AI in creative thinkin
 
 
 ## Projects
-- **Detection Lab**  
-  Built a virtual SOC environment to simulate attacks, analyze logs, and test threat detection with tools like Splunk, Zeek, and Suricata.
-
-- **SOC Automation Project**  
-  Automated incident response workflows using Shuffle SOAR, integrated with TheHive for case management and alert triage.
-
+- Google AI Engeneing Promting Tools         | <a href="https://github.com/elicheyo/Prompting-tools">Prompting Tools</a>|
+  
 - **AI Email Assistant with Google AI**  
   Created a productivity assistant using Google AI tools to draft, edit, and summarize professional emails for improved workflow.
 
