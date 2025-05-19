@@ -3,9 +3,10 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+To build expertise in AI, machine learning, and cybersecurity, applying skills in AI automation, big data analysis, and risk management to roles like AI Automation Specialist and SOC Cybersecurity Analyst.
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
